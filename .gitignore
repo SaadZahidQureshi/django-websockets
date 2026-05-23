@@ -1,0 +1,31 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Secrets
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Database (keep your data local)
+db.sqlite3
+*.db
+
+# Media & Static (uploaded files and collected assets)
+media/
+static/
+staticfiles/
+
+# Logs
+*.log
+
+# IDEs (optional but recommended)
+.idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
